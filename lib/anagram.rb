@@ -13,4 +13,4 @@ class Anagram
     wordlit("").sort == @word.split("").sort
     end
   end
-end
+end  
